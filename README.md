@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Savva Morozov @castletaste
 - 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning ...
 - 📫 You can contact me by telegram @castletaste
   
 <!---
